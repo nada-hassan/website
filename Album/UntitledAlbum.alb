@@ -1,0 +1,51 @@
+<webalbum version="1.8.2">
+  <title>Untitled Album</title>
+  <description>
+    <line>Various photographs that I'd like to share on the Web.</line>
+  </description>
+  <settings>
+    <photosize width="640" height="480">medium</photosize>
+    <thumbsize width="80" height="60">small</thumbsize>
+    <outputdirectory>C:\Documents and Settings\Eng_Mizo\Desktop\code\final\UntitledAlbum\</outputdirectory>
+    <navigateinloop>True</navigateinloop>
+  </settings>
+  <layout>
+    <colourscheme>Default</colourscheme>
+    <pagecolor>16777215</pagecolor>
+    <textcolor>0</textcolor>
+    <linkcolor>16711680</linkcolor>
+    <hotlinkcolor>255</hotlinkcolor>
+    <thumbnailrows>1</thumbnailrows>
+    <thumbnailcols>4</thumbnailcols>
+    <navigationbelowphoto>False</navigationbelowphoto>
+  </layout>
+  <photographs>
+    <photo>
+      <filename>C:\Documents and Settings\Eng_Mizo\Desktop\code\final\q.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Documents and Settings\Eng_Mizo\Desktop\code\final\q (1).jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Documents and Settings\Eng_Mizo\Desktop\code\final\q (2).jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Documents and Settings\Eng_Mizo\Desktop\code\final\q (3).jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Documents and Settings\Eng_Mizo\Desktop\code\final\q (4).jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Documents and Settings\Eng_Mizo\Desktop\code\final\q (5).jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Documents and Settings\Eng_Mizo\Desktop\code\final\q (6).jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Documents and Settings\Eng_Mizo\Desktop\code\final\q (7).jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Documents and Settings\Eng_Mizo\Desktop\code\final\q (8).jpg</filename>
+    </photo>
+  </photographs>
+</webalbum>
